@@ -1,0 +1,11 @@
+.table {
+  margin-top: 70px;
+  margin-bottom: 0px !important;
+}
+
+.center__row {
+  vertical-align: middle;
+}
+.table mt-5 {
+  margin-top: 200px;
+}

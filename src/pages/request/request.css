@@ -1,0 +1,34 @@
+#head {
+    width: 85%;
+    margin-top: 30px;
+    height: 600px;
+    margin-left: 230px;
+}
+#buttom {
+    margin-left: 200px;
+    height: 500px;
+}
+#row{
+    width: 100px;
+}
+#pop{
+    
+   width: 0px;
+   margin-left: 100px;
+}
+
+#accordion {
+    
+    margin-bottom: 10px;
+}
+#popbutton{
+  margin-left: 950px;
+}
+
+#acc{
+    margin-bottom: 100px;
+}
+#detail{
+    box-sizing: 10px;
+  
+}
